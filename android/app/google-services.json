@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683950382042",
+    "firebase_url": "https://lala-for-kids-default-rtdb.firebaseio.com",
+    "project_id": "lala-for-kids",
+    "storage_bucket": "lala-for-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683950382042:android:fda03b6f62e47c7de0fee3",
+        "android_client_info": {
+          "package_name": "br.com.alves.loja_lala_for_kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683950382042-s2i88h5qtrsui3en0ga7n3tuba9vbhil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0RXely0D79EyqPe3GutI8I4Q-DUsiWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683950382042-s2i88h5qtrsui3en0ga7n3tuba9vbhil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
